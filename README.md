@@ -4,9 +4,7 @@
 🔭 I’m currently working as software analyst.  
 🌱 I’m currently learning React.  
 📫 How to reach me: 
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[LinkedIn].svg" />
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][LinkedIn]
+[<img height="32" width="32" color="#0A66C2" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][LinkedIn]
 
 [LinkedIn][<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/LinkedIn.svg" />]
 
@@ -18,5 +16,5 @@
 
 
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+[<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+[github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
