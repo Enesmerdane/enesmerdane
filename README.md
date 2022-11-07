@@ -4,4 +4,4 @@
 🔭 I’m currently working as a software analyst.  
 🌱 I’m currently learning React.  
 📫 How to reach me:  
-[LinkedIn][<img height="32" width="32" color="#0A66C2" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />]
+<img height="32" width="32" color="#0A66C2" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />
