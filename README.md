@@ -8,6 +8,7 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[LinkedIn].svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/LinkedIn.svg" />
 
+[LinkedIn][<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/LinkedIn.svg" />]
 
 <a href="https://linkedin.com/in/enesmerdane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enesmerdane" height="30" width="40" /></a>
 
