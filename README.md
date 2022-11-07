@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 ### This page is under constraction. Please visit later...  
 
 🔭 I’m currently working as software analyst.  
@@ -6,7 +6,7 @@
 📫 How to reach me: 
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[LinkedIn].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/LinkedIn.svg" />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][LinkedIn]
 
 [LinkedIn][<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/LinkedIn.svg" />]
 
