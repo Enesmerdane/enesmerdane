@@ -5,11 +5,25 @@
 👨‍💻 Currently developing himself in Fullstack development (React.js, Node.js, Next.js, Express.js)
 
 ### New Projects
-#### Social Media for University Students
-Project description: ...  
-Used Technologies: ...  
-Used libraries: ...  
-Github link: ...  
+#### Social Media for University Students (In progress)
+Project description: I began developing it as a hobby project.
+Used Technologies: React.js, Node.js, Express.js
+
+#### [Reload Case Study (2023)](https://github.com/Enesmerdane/reload-case-study)
+Project description: Developed for the technical interview part of a company. Created as a frontend of a web application.
+Used Technologies: React.js, Typescript
 
 ### Old Projects
-#### [Catan Board Game - Desktop Version (https://github.com/Enesmerdane/CS319-1B-CA)]
+#### [Catan Board Game - Desktop Version (2018)](https://github.com/Enesmerdane/CS319-1B-CA)
+Project description: As a course project at university, we've developed desktop version of Settlers of Catan Boardgame. The project included only the clientside. 
+Used Technologies: Java, JavaFX
+
+#### [Code Challenge React (2020)](https://github.com/Enesmerdane/code-challenge-react)
+Project description: For the technical interview part of a company, I worked on simple React app.
+Used Technologies: React.js
+
+#### [Piwork Analysis Task (2021)](https://github.com/Enesmerdane/piworkstask)
+Project description: For the technical interview part of a company, I've analyzed given screens and created a md document.
+Used Technologies: -
+
+
