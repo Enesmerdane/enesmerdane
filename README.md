@@ -14,16 +14,16 @@ Project description: Developed for the technical interview part of a company. Cr
 Used Technologies: React.js, Typescript
 
 ### Old Projects
-#### [Catan Board Game - Desktop Version (2018)](https://github.com/Enesmerdane/CS319-1B-CA)
-Project description: As a course project at university, we've developed desktop version of Settlers of Catan Boardgame. The project included only the clientside. 
-Used Technologies: Java, JavaFX
-
-#### [Code Challenge React (2020)](https://github.com/Enesmerdane/code-challenge-react)
-Project description: For the technical interview part of a company, I worked on simple React app.
-Used Technologies: React.js
 
 #### [Piwork Analysis Task (2021)](https://github.com/Enesmerdane/piworkstask)
 Project description: For the technical interview part of a company, I've analyzed given screens and created a md document.
 Used Technologies: -
 
+#### [Code Challenge React (2020)](https://github.com/Enesmerdane/code-challenge-react)
+Project description: For the technical interview part of a company, I worked on simple React app.
+Used Technologies: React.js
+
+#### [Catan Board Game - Desktop Version (2018)](https://github.com/Enesmerdane/CS319-1B-CA)
+Project description: As a course project at university, we've developed desktop version of Settlers of Catan Boardgame. The project included only the clientside. 
+Used Technologies: Java, JavaFX
 
