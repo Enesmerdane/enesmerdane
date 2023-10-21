@@ -2,7 +2,7 @@
 ### This page is under construction. Please visit later...  
 🎓 Graduated from the Computer Science department at Bilkent University in 2021.
 💻 Worked as a software analyst for about two years.
-👨‍💻 Currently developing himself in Fullstack development (React.js, Node.js, Next.js, Express.js)
+👨‍💻 Currently developing himself in Fullstack development (React.js, Vues.js, Nuxt.js, Node.js, Nest.js, Next.js, Express.js)
 
 ### New Projects
 #### Social Media for University Students (In progress)
