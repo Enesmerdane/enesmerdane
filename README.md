@@ -12,7 +12,7 @@ Used Technologies: React.js, Node.js, Express.js
 Project description: Developed for the technical interview part of a company. Created as a frontend of a web application.
 Used Technologies: React.js, Typescript
 
-### [Patika Timus Fullstack Bootcamp Final Project (2023)(https://github.com/Enesmerdane/Timus-Bootcamp-Final-Project)]
+### [Patika Timus Fullstack Bootcamp Final Project (2023)](https://github.com/Enesmerdane/Timus-Bootcamp-Final-Project)
 Project description: Developed as the final project of the bootcamp. There are some missing features in the frontend.
 Used Technologies: Vue.js, Nest.js, PostgreSQL, ElasticSearch
 
