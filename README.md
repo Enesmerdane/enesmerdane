@@ -4,6 +4,10 @@
 👨‍💻 Currently developing himself in Fullstack development (React.js, Vues.js, Nuxt.js, Node.js, Nest.js, Next.js, Express.js)
 
 ### New Projects
+### [Patika Timus Fullstack Bootcamp Final Project (2023)](https://github.com/Enesmerdane/Timus-Bootcamp-Final-Project)
+Project description: Developed as the final project of the bootcamp. There are some missing features in the frontend.
+Used Technologies: Vue.js, Nest.js, PostgreSQL, ElasticSearch
+
 #### Social Media for University Students (In progress)
 Project description: I began developing it as a hobby project.
 Used Technologies: React.js, Node.js, Express.js
@@ -11,10 +15,6 @@ Used Technologies: React.js, Node.js, Express.js
 #### [Reload Case Study (2023)](https://github.com/Enesmerdane/reload-case-study)
 Project description: Developed for the technical interview part of a company. Created as a frontend of a web application.
 Used Technologies: React.js, Typescript
-
-### [Patika Timus Fullstack Bootcamp Final Project (2023)](https://github.com/Enesmerdane/Timus-Bootcamp-Final-Project)
-Project description: Developed as the final project of the bootcamp. There are some missing features in the frontend.
-Used Technologies: Vue.js, Nest.js, PostgreSQL, ElasticSearch
 
 ### Old Projects
 
