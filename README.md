@@ -12,6 +12,10 @@ Used Technologies: React.js, Node.js, Express.js
 Project description: Developed for the technical interview part of a company. Created as a frontend of a web application.
 Used Technologies: React.js, Typescript
 
+### [Patika Timus Fullstack Bootcamp Final Project (2023)(https://github.com/Enesmerdane/Timus-Bootcamp-Final-Project)]
+Project description: Developed as the final project of the bootcamp. There are some missing features in the frontend.
+Used Technologies: Vue.js, Nest.js, PostgreSQL, ElasticSearch
+
 ### Old Projects
 
 #### [Piwork Analysis Task (2021)](https://github.com/Enesmerdane/piworkstask)
@@ -25,4 +29,5 @@ Used Technologies: React.js
 #### [Catan Board Game - Desktop Version (2018)](https://github.com/Enesmerdane/CS319-1B-CA)
 Project description: As a course project at university, we've developed desktop version of Settlers of Catan Boardgame. The project included only the clientside. 
 Used Technologies: Java, JavaFX
+
 
