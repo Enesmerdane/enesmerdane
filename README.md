@@ -1,7 +1,7 @@
 ### Hello there 👋 I am Enes
 🎓 Graduated from the Computer Science department at Bilkent University in 2021.
 💻 Worked as a software analyst for about two years.
-👨‍💻 Currently developing himself in Fullstack development (React.js, Vues.js, Nuxt.js, Node.js, Nest.js, Next.js, Express.js)
+👨‍💻 Currently developing himself in Fullstack development (React.js, Vues.js, Nuxt.js, Node.js, Nest.js, Next.js, Express.js, Spring Framework)
 
 ### New Projects
 ### [Patika Timus Fullstack Bootcamp Final Project (2023)](https://github.com/Enesmerdane/Timus-Bootcamp-Final-Project)
